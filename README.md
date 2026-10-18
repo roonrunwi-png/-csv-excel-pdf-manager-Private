@@ -1,4 +1,6 @@
-    #-csv-excel-pdf-manager-=Privatename: csv-excel-pdf-manager
+    #-csv-excel-pdf-manager-get
+
+Privatename: csv-excel-pdf-manager
     description: Python utilities for managing CSV, Excel, and PDF files
     private: true
     auto_init: true 
